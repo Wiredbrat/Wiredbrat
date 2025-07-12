@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Wiredbrat
+# 👋 Hi, My name is Atul Verma
 
 I'm a passionate **Frontend Developer** with a hunger and curiosity to learn and grow every day. I thrive on building engaging, performant web experiences using modern technologies.
 
