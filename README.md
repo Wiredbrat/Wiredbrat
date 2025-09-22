@@ -9,13 +9,19 @@ I'm a passionate **Frontend Developer** with a hunger and curiosity to learn and
 - **Node.js** 🟩
 - **MongoDB** 🍃
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 [![Animania - Explore your favorite anime](https://img.shields.io/badge/Live%20Project-Animania-black?style=for-the-badge&logo=vercel)](https://animania-black.vercel.app)
 
 > **Animania**: Discover and explore your favorite anime! Powered by my favorite stack.
 >
 > [View Animania](https://animania-black.vercel.app)
+
+[![E-Library - Explore your favorite anime](https://img.shields.io/badge/Live%20Project-Animania-black?style=for-the-badge&logo=vercel)](https://elib-rary.vercel.app)
+
+> **E-Library**: Discover and explore your books of your liking and add them in your list ! Powered by my favorite stack.
+>
+> [View Animania](https://elib-rary.vercel.app)
 
 ## 📝 About Me
 
