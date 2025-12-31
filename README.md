@@ -8,6 +8,7 @@ I'm a passionate **Frontend Developer** with a hunger and curiosity to learn and
 - **Express.js** 🚂
 - **Node.js** 🟩
 - **MongoDB** 🍃
+- **NextJS** 🍃
 
 ## 🌟 Featured Projects
 
